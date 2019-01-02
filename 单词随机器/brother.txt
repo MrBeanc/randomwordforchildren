@@ -1,0 +1,9 @@
+boy 男孩
+apple 苹果
+orrange 橘子
+girl 女孩
+love 爱情
+car 汽车
+bus 公交车
+plan 飞机
+like 喜欢
